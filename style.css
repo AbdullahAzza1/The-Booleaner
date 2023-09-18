@@ -1,9 +1,6 @@
-.sfondo2{
-    background-color: aqua;
-    height: 200px;
-    
-}
-header > section{
+
+header > section{    
+    background-image: url(pattern.png);
     background-repeat: repeat;
 }
 .scritta{
