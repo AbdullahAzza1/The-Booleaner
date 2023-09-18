@@ -2,15 +2,44 @@
 header > section{    
     background-image: url(pattern.png);
     background-repeat: repeat;
+    background-size: contain;
+    height: 100px;
+    background-color: rgb(45, 95, 175);
+    
 }
+
 .scritta{
     color: gray;
 }
+.dettagli{
+    font-size: 10px;
+}
+ table{
     
+    text-align: left;
+ } 
+
 .tabella2 {
-    width: 500px;
+    width: 400px;
+    background-color:rgb(22, 75, 159) ;
 }
 .tabella3 {
     height: 50px;
     width: 500px;
+    background-color:rgb(66, 116, 196) ;
+}
+footer > p{
+    color: grey;
+}
+.image{
+    background-image: url(monitor.jpg);
+    width: 300px;
+    height: 200px;
+    color: white;
+}
+.image2{
+    background-image: url(graph.jpg);
+    width: 300px;
+    height: 200px;
+    color: white;
 }
