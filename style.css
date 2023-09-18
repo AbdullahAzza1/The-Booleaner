@@ -1,3 +1,11 @@
+.sfondo2{
+    background-color: aqua;
+    height: 200px;
+    
+}
+header > section{
+    background-repeat: repeat;
+}
 .scritta{
     color: gray;
 }
